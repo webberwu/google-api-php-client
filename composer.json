@@ -1,0 +1,7 @@
+{
+    "name": "webber.wu/google-api-php-client",
+    "require": {
+        "google/apiclient": "^2.0",
+        "pear/console_table": "^1.3"
+    }
+}
